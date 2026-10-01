@@ -1,5 +1,8 @@
 # Nepal Flood & Landslide Watch
 
+
+![Nepal Flood & Landslide Watch: map with the highlighted Nepal border, activity summary and the Nepali interface](assets/main.png)
+
 A mobile-first, map-first web app that shows **official** flood and landslide reports and river warnings near any place in Nepal, with the source and time on everything.
 
 It is built for people checking their own area on a weak connection, and for Nepalis abroad checking on family.
